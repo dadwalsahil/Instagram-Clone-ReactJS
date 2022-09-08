@@ -33,7 +33,6 @@ function Suggested() {
           className="avatar"
           alt="Bhuban_Bam"
           src="https://mumbaimirror.indiatimes.com/photo/68636148.cms"
-          className={classes.large}
         />
 
         <div className="footer_content">
@@ -51,7 +50,6 @@ function Suggested() {
           className="avatar"
           alt="sahidkapoor4"
           src="https://www.filmibeat.com/img/popcorn/profile_photos/shahid-kapoor-20190619173815-177.jpg"
-          className={classes.large}
         />
 
         <div className="footer_content">
@@ -70,7 +68,6 @@ function Suggested() {
           alt="shirleysetia
           "
           src="https://m.media-amazon.com/images/M/MV5BMjMwZjhjOTUtNmVjNS00NTM1LWEwOTItN2ZlMzMwMGY5ZGQ2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
-          className={classes.large}
         />
 
         <div className="footer_content">
@@ -88,7 +85,6 @@ function Suggested() {
           className="avatar"
           alt="durjoydatta"
           src="https://images.newindianexpress.com/uploads/user/imagelibrary/2018/12/19/original/accidental.jpg"
-          className={classes.large}
         />
 
         <div className="footer_content">
@@ -106,7 +102,6 @@ function Suggested() {
           className="avatar"
           alt="cristiano"
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuZfZq9tllEgk_3z9bFGx-NLTS2vRcpSdB0Q&usqp=CAU"
-          className={classes.large}
         />
 
         <div className="footer_content">
@@ -124,7 +119,6 @@ function Suggested() {
           className="avatar"
           alt="gameofthrones"
           src="https://www.skinillustrator.com/wp-content/uploads/2018/09/got-logo.jpg"
-          className={classes.large}
         />
 
         <div className="footer_content">
