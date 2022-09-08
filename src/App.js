@@ -9,7 +9,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import Button from "@material-ui/core/Button";
 import { Input } from "@material-ui/core";
 import Suggested from "./Suggested";
-
 import HomeIcon from "@material-ui/icons/Home";
 import NearMeOutlinedIcon from "@material-ui/icons/NearMeOutlined";
 import ExploreOutlinedIcon from "@material-ui/icons/ExploreOutlined";
@@ -149,7 +148,6 @@ function App() {
 
             <div className="signInLabel">
               <img
-                className="modal__headerImage"
                 src="https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png"
                 alt="instagram"
                 className="signInLabelImg"
@@ -196,7 +194,6 @@ function App() {
 
             <div className="signInLabel">
               <img
-                className="modal__headerImage"
                 src="https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png"
                 alt="instagram"
                 className="signInLabelImg"
